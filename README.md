@@ -72,7 +72,3 @@ Also ensure the following inclusion is in your pom:
 			</plugin>
 ```
 
-Reporting Issues
-----------------
-
-We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link https://github.com/mulesoft/mule-module-currency/issues
